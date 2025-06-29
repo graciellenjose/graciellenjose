@@ -1,5 +1,8 @@
 # Hello :wave:
-Pernambucana. Atualmente atuo com desenvolvimento SAP ABAP.
+<p align="center">Pernambucana. Atualmente atuo com desenvolvimento SAP ABAP.</p>
+<div align="center">
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciellenjose&hide_progress=true" />
+</div>
 
 ### :notebook: Currently learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
