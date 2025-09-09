@@ -10,7 +10,12 @@ Sou analista de Sistemas Jr com experiência em SAP ABAP (stack atual), desenvol
 
 
 <h4>Desenvolvimento web</h4>
+<div style="display: flex;">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-f5f5ff?style=flat&logo=nodedotjs&logoColor=339933"> 
+<img alt="Java" src="https://img.shields.io/badge/Java-f5f5ff?style=flat&logo=java&logoColor=ED8B00"> 
+<img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-f5f5ff?style=flat&logo=springboot&logoColor=6DB33F"> 
+</div>
+  
 <div style="display: flex;">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-f5f5ff?style=flat&logo=html5&logoColor=E34F26"> 
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-f5f5ff?style=flat&logo=css3&logoColor=1572B6">
