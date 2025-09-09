@@ -36,6 +36,10 @@ Sou analista de Sistemas Jr com experiência em SAP ABAP (stack atual), desenvol
 
 <h2>✉️ Contato</h2>
 <div align="center" style="display: flex; align: center;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-f5f5ff?style=flat&logo=gmail&logoColor=EA4335&link=mailto:graciellenascimentojose@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-f5f5ff?style=flat&logoColor=EA4335&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgracielle-jose">
+  <a href="mailto:graciellenascimentojose@gmail.com" target="_blank">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-f5f5ff?style=flat&logo=gmail&logoColor=EA4335&link=mailto:graciellenascimentojose@gmail.com">
+  </a>
+  <a href="https://www.linkedin.com/in/gracielle-jose/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-f5f5ff?style=flat&logoColor=EA4335&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgracielle-jose">
+  </a>
 </div>
